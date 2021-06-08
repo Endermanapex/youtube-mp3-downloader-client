@@ -9,6 +9,8 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/unknownblueguy6/MineSweeper)](https://repl.it/github/endermanapex/youtube-mp3-downloader-client)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 A small website made mainly as an excuse to test [Mercure](https://mercure.rocks) and 
 communication between a PHP process in a async message using [Messenger](https://github.com/symfony/messenger) 
 and a **NodeJS** process (the CLI that converts the YouTube video into an MP3), then
